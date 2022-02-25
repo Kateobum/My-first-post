@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Survey Form</title>
+</head>
+<body>
+<div class="container">
+<header class= "header">
+<h1 id = "title" clas="text-center">Miss Kay4wise Survey Form </h1>
+<p id = "describution" class ="description-text-center>Thank you for helping us improve the platform</p>
+</header>
+<form id ="survey-form">
+<div class="form-group>
+<label id="name-label" for ="name">Name</label>
+<input type="text" name= "name" class="form-control" placeholder="enter your name" required/>
+</div>
